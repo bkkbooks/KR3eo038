@@ -1,0 +1,84 @@
+canonical_identifier: bkk:krp/KR3eo038/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo038/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千金食治
+  identifiers:
+    krp: KR3eo038
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04410
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo038.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo038_000-jc.yaml, hash: 'sha256:5fe1bf1af191c14329411cbe5039b0479e4dc8ca8bba1df74345969ebe4c1c8b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo038_000-jc.markers.yaml, hash: 'sha256:c8a0b101f9bcd3c64e59f3dfaf1f35cbb66db0e345e9e7d315f22aa4cbbb302c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo038_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 863
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo038_jc_000-d3.h1s1
+    span:
+    - front
+    - 863
+    - 2670
+  label: 序論第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo038_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 1139
+  label: 果實第二二十九條
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo038_jc_000-d5.h1s1
+    span:
+    - body
+    - 1139
+    - 4480
+  label: 菜蔬第三五十八條
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo038_jc_000-d6.h1s1
+    span:
+    - body
+    - 4480
+    - 5865
+  label: 穀米第四二十七條
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo038_jc_000-d7.h1s1
+    span:
+    - body
+    - 5865
+    - 10465
+  label: 鳥獸第五四十條
+  type: section
+  level: 1
+hash: sha256:376e605480fea8793e368fe9d7856feeb34a803d2a74cf37d2e8a1b51aa427a2
