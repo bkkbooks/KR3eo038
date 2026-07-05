@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo038_000.yaml, hash: 'sha256:7a20565b3b1dfe46d2fae10e650223d4a1a3dcab67b800fe9b9156333501e199'}
+  - {seq: 0, filename: KR3eo038_000.yaml, hash: 'sha256:5fe1bf1af191c14329411cbe5039b0479e4dc8ca8bba1df74345969ebe4c1c8b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo038_000.markers.yaml, hash: 'sha256:a68d0292c158c03c5cfce01d4035cd372bfc44888eda89fb800034c3e9eb978f'}
+  - {seq: 0, role: markers, filename: assets/KR3eo038_000.markers.yaml, hash: 'sha256:04831474554b285a0a8a597ed3f0b48d26838d3d80b272777c6f31ca0b9a3264'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,7 +81,4 @@ table_of_contents:
   label: 鳥獸第五四十條
   type: section
   level: 1
-hash: sha256:6149f2addfd35312caf9a2eb6d18d2afc259932554cb7e488feeae10319e7e5d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c7d9642ba728b1fdef5e51229b831eaab57e4970cdfedc50e023050691181193
