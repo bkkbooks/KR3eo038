@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo038/v1
 canonical_location: https://kanripo.org/bkk/KR3eo038/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 千金食治
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo038_000.yaml, hash: 'sha256:5fe1bf1af191c14329411cbe5039b0479e4dc8ca8bba1df74345969ebe4c1c8b'}
+  - {seq: 0, filename: KR3eo038_000.yaml, hash: 'sha256:1b362ff39fc0dc45177caf77550051e154c8d2cf0c3437bc9b0f0f559a55d3df'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo038_000.markers.yaml, hash: 'sha256:04831474554b285a0a8a597ed3f0b48d26838d3d80b272777c6f31ca0b9a3264'}
+  - {seq: 0, role: markers, filename: assets/KR3eo038_000.markers.yaml, hash: 'sha256:b609a5c34e5cfff4ed18617e730bde2c6db48df3ebbc62d15186b8a76b5430a9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,4 +81,7 @@ table_of_contents:
   label: 鳥獸第五四十條
   type: section
   level: 1
-hash: sha256:c7d9642ba728b1fdef5e51229b831eaab57e4970cdfedc50e023050691181193
+hash: sha256:b7dda32fd52790dee5490a6365356f962567c9c80c360876693f41267d7f35d4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
